@@ -1,2 +1,0 @@
-# valberts.github.io
-portfolio
